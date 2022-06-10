@@ -1,7 +1,7 @@
   ## Welcome to my Github Profile! 😄
   
  <h1 align="center"> MAALEJ Ghofran I'm a software engineering student at the Higher Institute of Informatics Ariana! 👋 </h1>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=maalejghofran&label=Profile%20views&color=0e75b6&style=plastic" alt="maalejghofran" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=maalejghofrane&label=Profile%20views&color=0e75b6&style=plastic" alt="maalejghofrane" /> </p>
   
 
   ## 🛠️ My Skills
@@ -55,10 +55,10 @@
    
 ## 🌱 Github Stats
 <p align="center">
-<img alt="maalejghofran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maalejghofran&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+<img alt="maalejghofran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maalejghofrane&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 	</p>
 	<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maalejghofran&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maalejghofran" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maalejghofrane&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maalejghofrane" height="192px"/>
 </p>
 
 ## 📫 Social Accounts
