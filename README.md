@@ -56,8 +56,8 @@
 ## 🌱 Github Stats
 <!-- <p align="center">
 <img alt="maalejghofran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maalejghofrane&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-	</p> -->
-	<p align="center">
+	</p>
+	<p align="center"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maalejghofrane&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maalejghofrane" height="192px"/>
 </p>
 
