@@ -65,6 +65,6 @@
 <a href="mailto:ghofran.maalej@etudiant-isi.utm.tn" target="_blank">![ghofran.maalej@etudiant-isi.utm.tn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://www.linkedin.com/in/ghofran-maalej-66a4a5173/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href="https://twitter.com/maalej_ghofran" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://github.com/maalejghofrane" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>	
+<a target="_blank" href="https://twitter.com/maalej_ghofran" >![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a target="_blank" href="https://github.com/maalejghofrane" >![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>	
 <a href="https://gitlab.com/maalejghofrane" target="_blank">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
