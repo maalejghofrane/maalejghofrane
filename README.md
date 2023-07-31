@@ -1,6 +1,6 @@
   ## Welcome to my Github Profile! MAALEJ Ghofran 😄
   
- <h1 align="center"> I'm a software engineering student at the Higher Institute of Informatics Ariana! 👋 </h1>
+ <h1 align="center"> I'm a software engineer 👋 </h1>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=maalejghofrane&label=Profile%20views&color=0e75b6&style=plastic" alt="maalejghofrane" /> </p>
   
 
